@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.4.3</version>
+        <relativePath/>
+    </parent>
+
+    <groupId>com.itskills.hexagonal</groupId>
+    <artifactId>architecture-hexagonale-ddd-java</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <name>Architecture Hexagonale, Clean Architecture &amp; DDD en Java</name>
+    <description>Projet fil rouge Avant (3 couches) / Après (Architecture Hexagonale &amp; DDD Tactique)</description>
+
+    <modules>
+        <module>01-avant-trois-couches</module>
+        <module>02-apres-architecture-hexagonale</module>
+    </modules>
+
+    <properties>
+        <java.version>21</java.version>
+        <maven.compiler.release>21</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <archunit.version>1.3.0</archunit.version>
+    </properties>
+
+</project>
