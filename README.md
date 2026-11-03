@@ -123,5 +123,5 @@ mvn clean test
 
 ## 👨‍🏫 Auteur & Formation
 
-Formation conçue et produite par **Imad Bouaklane** pour **ItSkillsMaker**.  
+Formation conçue et produite par **Imad BOU AKL** pour **ItSkillsMaker**.  
 Retrouvez le cours complet sur [Udemy](https://www.udemy.com/).
