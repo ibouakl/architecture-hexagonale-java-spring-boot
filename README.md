@@ -3,10 +3,11 @@
 [![Java](https://img.shields.io/badge/Java-21%2B%20%2F%2025-orange.svg)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.3-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![ArchUnit](https://img.shields.io/badge/ArchUnit-1.4.1-blue.svg)](https://www.archunit.org/)
+[![Udemy](https://img.shields.io/badge/Udemy-Formation%20en%20ligne-red.svg?logo=udemy)](https://www.udemy.com/course/architecture-hexagonale-clean-architecture-ddd-en-java/?referralCode=0CB398B9A8EC01A64004)
 [![Build Status](https://img.shields.io/badge/Tests-9%20passed%20%2F%200%20failed-success.svg)]()
 
 Ce dépôt contient le code source complet, compilé et testé qui accompagne la formation vidéo Udemy :  
-**« Architecture Hexagonale, Clean Architecture & DDD en Java (Spring Boot Avant / Après) »**.
+👉 [**« Architecture Hexagonale, Clean Architecture & DDD en Java (Spring Boot Avant / Après) »**](https://www.udemy.com/course/architecture-hexagonale-clean-architecture-ddd-en-java/?referralCode=0CB398B9A8EC01A64004).
 
 Il illustre pas à pas le refactoring d'une application de gestion de commandes et paiements, depuis un monolithe 3-couches couplé jusqu'à une architecture hexagonale pure et hautement testable.
 
@@ -124,4 +125,4 @@ mvn clean test
 ## 👨‍🏫 Auteur & Formation
 
 Formation conçue et produite par **Imad BOU AKL** pour **ItSkillsMaker**.  
-Retrouvez le cours complet sur [Udemy](https://www.udemy.com/).
+🎓 Retrouvez le cours complet sur [Udemy : Architecture Hexagonale, Clean Architecture & DDD en Java](https://www.udemy.com/course/architecture-hexagonale-clean-architecture-ddd-en-java/?referralCode=0CB398B9A8EC01A64004).
